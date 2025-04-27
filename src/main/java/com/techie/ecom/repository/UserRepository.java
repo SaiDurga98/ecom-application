@@ -1,6 +1,6 @@
 package com.techie.ecom.repository;
 
-import com.techie.ecom.domain.User;
+import com.techie.ecom.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
